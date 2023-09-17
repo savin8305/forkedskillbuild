@@ -1,0 +1,8 @@
+student
+teacher
+staff
+hostell
+mess
+security
+temple
+well infrastructure
